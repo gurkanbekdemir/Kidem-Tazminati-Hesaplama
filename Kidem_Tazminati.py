@@ -1,5 +1,4 @@
 from tkinter import *
-
 def veri(): # veri adlı fonksiyon açtık
    veri_brut_girdi = brut_girdi.get()                                                             # Brut girdisini getirdik
    veri_calisma_suresi_yil_girdi = calisma_suresi_yil_girdi.get()            # Calisma süresini ''yıl'' getirdik
